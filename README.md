@@ -15,5 +15,6 @@ Leetcode
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[C++](009.%20Palindrome%20Number/Solution.cpp)[Python](009.%20Palindrome%20Number/Solution.py)|[Note](009.%20Palindrome%20Number/Note.md)|Easy||
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[C++](010.%20Regular%20Expression%20Matching/Solution.cpp)[Python](010.%20Regular%20Expression%20Matching/Solution.py)|[Note](010.%20Regular%20Expression%20Matching/Note.md)|Hard||
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[C++](011.%20Container%20With%20Most%20Water/Solution.cpp)[Python](011.%20Container%20With%20Most%20Water/Solution.py)|[Note](011.%20Container%20With%20Most%20Water/Note.md)|Hard|Array|
-|015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](015.%203Sum/Solution.cpp)[Python](015.%203Sum/Solution.py)|[Note](015.%203Sum/Note.md)|Medium||
-|016|[3Sum](https://leetcode.com/problems/3sum-closest/)|[C++](016.%203Sum%20Closest/Solution.cpp)[Python](016.%203Sum%20Closest/Solution.py)|[Note](016.%203Sum%20Closest/Note.md)|Medium||
+|015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](015.%203Sum/Solution.cpp)[Python](015.%203Sum/Solution.py)|[Note](015.%203Sum/Note.md)|Medium|Array|
+|016|[3Sum](https://leetcode.com/problems/3sum-closest/)|[C++](016.%203Sum%20Closest/Solution.cpp)[Python](016.%203Sum%20Closest/Solution.py)|[Note](016.%203Sum%20Closest/Note.md)|Medium|Array|
+|018|[4Sum](https://leetcode.com/problems/4sum/)|[C++](015.%204Sum/Solution.cpp)[Python](015.%204Sum/Solution.py)|[Note](015.%204Sum/Note.md)|Medium|Array|
