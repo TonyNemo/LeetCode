@@ -18,6 +18,7 @@ Leetcode
 |015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](015.%203Sum/Solution.cpp)[Python](015.%203Sum/Solution.py)|[Note](015.%203Sum/Note.md)|Medium|Array|
 |016|[3Sum](https://leetcode.com/problems/3sum-closest/)|[C++](016.%203Sum%20Closest/Solution.cpp)[Python](016.%203Sum%20Closest/Solution.py)|[Note](016.%203Sum%20Closest/Note.md)|Medium|Array|
 |018|[4Sum](https://leetcode.com/problems/4sum/)|[C++](015.%204Sum/Solution.cpp)[Python](015.%204Sum/Solution.py)|[Note](015.%204Sum/Note.md)|Medium|Array|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.cpp)|[Python](026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.py)|Easy|Array|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](035.%20Search%20Insertion%20Position/Solution.cpp)[Python](035.%20Search%20Insertion%20Position/Solution.py)|[Note](035.%20Search%20Insertion%20Position/Note.md)|Easy|Array|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](045.%20Jump%20Game%20II/Solution.cpp)[Python](045.%20Jump%20Game%20II/Solution.py)|[Note](045.%20Jump%20Game%20II/Note.md)|Hard|Array|
 |055|[Jump Game](https://leetcode.com/problems/jump-game)|[C++](055.%20Jump%20Game/Solution.cpp)[Python](055.%20Jump%20Game/Solution.py)|[Note](055.%20Jump%20Game/Note.md)|Medium|Array|
